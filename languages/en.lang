@@ -1,0 +1,7 @@
+start=Hello, and welcome to wordle bot!
+
+You wanna play a little game?;
+myWords=My words;
+myKeyboards=My language sets;
+playRandom=Give me a random word!;
+playId=Load a word by id;
